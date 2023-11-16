@@ -1,4 +1,6 @@
 #!/bin/bash
+#Author : Marc CHAMBRE
+# Allows you to loop "ipn" to find out when the turtlebot is accessible via its IP address.
 
 while true; do
     # Exécute la commande 'ip n' et récupère le résultat complet
